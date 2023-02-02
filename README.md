@@ -18,5 +18,4 @@ Università degli Studi di Catania
 Tecnico audiometrista
 ['Snowboard' 'Web' 'Stampa 3D']
 ```
-
-![generated picture](https://i.imgur.com/TbYKBaP.png "generated")
+<img src="https://i.imgur.com/TbYKBaP.png" alt="generated" style="height: 250px; width:250px;"/>
