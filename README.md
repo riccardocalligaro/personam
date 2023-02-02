@@ -1,4 +1,4 @@
-# Persona
+# Personam
 
 command: `python3 generate.py`
 
@@ -18,3 +18,5 @@ Università degli Studi di Catania
 Tecnico audiometrista
 ['Snowboard' 'Web' 'Stampa 3D']
 ```
+
+![generated picture](https://i.imgur.com/TbYKBaP.png "generated")
