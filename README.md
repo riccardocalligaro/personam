@@ -1,7 +1,10 @@
 # Persona
 
 command: `python3 generate.py`
-output: ```
+
+sample output: 
+
+```
 Giuseppe Giordano
 Nato a Catania il 28/09/1991 (31)
 GRDGPP91P28C351T
